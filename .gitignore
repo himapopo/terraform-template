@@ -1,0 +1,10 @@
+!.gitignore
+
+**/.env
+**/.DS_store
+
+**/.terraform/*
+**/*.tfvars
+
+*.tfstate
+*.tfstate.*
